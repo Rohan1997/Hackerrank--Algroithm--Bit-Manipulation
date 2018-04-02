@@ -1,4 +1,4 @@
-Hackerrank--Algroithm--Bit-Manipulation
+#Hackerrank->Algroithm->Bit-Manipulation
 
 1 Lonely Integer
 
